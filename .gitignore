@@ -1,0 +1,92 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+*.env.*
+
+# Python egg and distribution files
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Cache and logs
+*.log
+*.out
+*.bak
+*.tmp
+.cache/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Data files
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.json
+*.xml
+*.yaml
+*.yml
+*.db
+*.sqlite
+*.tfrecord
+
+# Model weights
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.sav
+*.pb
+*.weights
+
+# TensorBoard & wandb
+logs/
+wandb/
+*.tensorboard
+
+# PyTorch Lightning
+lightning_logs/
+
+# Colab-specific
+*.ipynb
+drive/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Credential & key files
+*.pem
+*.key
+*.crt
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Miscellaneous
+results/
+outputs/
+runs/
+__results__/
+
