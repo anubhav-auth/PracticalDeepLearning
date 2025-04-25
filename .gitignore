@@ -63,7 +63,6 @@ wandb/
 lightning_logs/
 
 # Colab-specific
-*.ipynb
 drive/
 
 # VSCode and IDE settings

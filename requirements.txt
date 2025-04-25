@@ -3,4 +3,5 @@ duckduckgo_search
 fastdownload
 fastai
 gradio
-nbdev
+timm
+import torch
