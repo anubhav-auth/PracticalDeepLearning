@@ -2,3 +2,4 @@ fastcore
 duckduckgo_search
 fastdownload
 fastai
+gradio
