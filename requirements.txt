@@ -3,3 +3,4 @@ duckduckgo_search
 fastdownload
 fastai
 gradio
+nbdev
