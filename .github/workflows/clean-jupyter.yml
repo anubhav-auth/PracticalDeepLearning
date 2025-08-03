@@ -2,8 +2,11 @@ name: Clean Jupyter Notebooks
 
 on:
   push:
-    branches: [master]  # or your default branch
+    branches: [master]
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   clean:
